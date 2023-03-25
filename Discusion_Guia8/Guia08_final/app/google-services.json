@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "399493973019",
+    "firebase_url": "https://fir-dbrealtime-d2f1c-default-rtdb.firebaseio.com",
+    "project_id": "fir-dbrealtime-d2f1c",
+    "storage_bucket": "fir-dbrealtime-d2f1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399493973019:android:8fcaad33836390751224be",
+        "android_client_info": {
+          "package_name": "com.example.guia08_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399493973019-jv2a63k3c20k29feegnr7qmskj5sg23b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPFjNiPRSoZDYnBH84d0sediDUU8JQX6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399493973019-jv2a63k3c20k29feegnr7qmskj5sg23b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
